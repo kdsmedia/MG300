@@ -1,0 +1,5 @@
+{
+  "name": "DIY Ardu-MG Multi-FX Lab",
+  "description": "A comprehensive guide and tool for building an Arduino-based guitar multi-effects processor inspired by the NUX MG300, featuring AI-powered DSP code generation and interactive signal chain modeling.",
+  "requestFramePermissions": []
+}
